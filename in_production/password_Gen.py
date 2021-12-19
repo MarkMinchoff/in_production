@@ -1,4 +1,5 @@
 #password_gen
+#authored by mark minchoff
 
 #import mods
 import string
